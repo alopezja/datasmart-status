@@ -5,6 +5,10 @@ repo: datasmart-status
 user-agent: alopezja
 
 sites:
+  - name: PRUEBA Notificacion
+    url: https://www.datasmart.com.co/api/health/__prueba_caida__
+    maxResponseTime: 2000
+    expectedStatusCodes: [200]
   - name: Ventix
     url: https://www.datasmart.com.co/api/health/ventix
     maxResponseTime: 2000
