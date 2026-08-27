@@ -1,5 +1,25 @@
 [
   {
+    "name": "PRUEBA Notificacion",
+    "url": "https://www.datasmart.com.co/api/health/__prueba_caida__",
+    "icon": "https://icons.duckduckgo.com/ip3/www.datasmart.com.co.ico",
+    "slug": "prueba-notificacion",
+    "status": "down",
+    "uptime": "68.33%",
+    "uptimeDay": "68.33%",
+    "uptimeWeek": "68.33%",
+    "uptimeMonth": "68.33%",
+    "uptimeYear": "68.33%",
+    "time": 212,
+    "timeDay": 212,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 212,
+    "dailyMinutesDown": {
+      "2026-08-27": 0
+    }
+  },
+  {
     "name": "Ventix",
     "url": "https://www.datasmart.com.co/api/health/ventix",
     "icon": "https://icons.duckduckgo.com/ip3/www.datasmart.com.co.ico",
