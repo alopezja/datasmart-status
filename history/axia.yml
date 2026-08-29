@@ -1,7 +1,7 @@
 url: https://www.datasmart.com.co/api/health/axia
-status: up
+status: degraded
 code: 200
-responseTime: 222
-lastUpdated: 2026-08-29T20:55:54.598Z
+responseTime: 4277
+lastUpdated: 2026-08-29T21:20:43.289Z
 startTime: 2026-08-27T19:28:11.531Z
 generator: Upptime <https://github.com/upptime/upptime>
