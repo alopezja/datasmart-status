@@ -1,7 +1,7 @@
 url: https://www.datasmart.com.co/api/health/ventix
-status: up
+status: degraded
 code: 200
-responseTime: 449
-lastUpdated: 2026-08-31T01:45:14.853Z
+responseTime: 5243
+lastUpdated: 2026-08-31T18:15:37.643Z
 startTime: 2026-08-27T19:28:10.380Z
 generator: Upptime <https://github.com/upptime/upptime>
