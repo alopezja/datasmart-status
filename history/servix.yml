@@ -1,7 +1,7 @@
 url: https://www.datasmart.com.co/api/health/servix
-status: degraded
+status: up
 code: 200
-responseTime: 4227
-lastUpdated: 2026-08-31T01:42:01.408Z
+responseTime: 220
+lastUpdated: 2026-08-31T01:45:23.226Z
 startTime: 2026-08-27T19:28:12.682Z
 generator: Upptime <https://github.com/upptime/upptime>
