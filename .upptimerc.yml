@@ -30,6 +30,18 @@ sites:
     maxResponseTime: 2000
     expectedStatusCodes: [200]
 
+# Upptime alimenta el gráfico SOLO desde `Response Time CI`: es la única corrida
+# que llama `update(true)` y graba un punto aunque el estado no cambie. `Uptime
+# CI` corre cada 5 min y escribe solo en transiciones ("Skipping commit, status
+# is up" en su log). Con `responseTime` en el default `0 23 * * *` el histórico
+# tenía UN punto por día (history/ventix.yml: 23 commits en 16 días) y las curvas
+# de la página salían planas.
+#
+# `0 * * * *` = 24 puntos/día. NO bajarlo a */5: cada corrida hace 6 commits
+# (uno por producto) y serían ~1.700 commits diarios.
+workflowSchedule:
+  responseTime: "0 * * * *"
+
 status-website:
   cname: status.datasmart.com.co
   name: DataSmart · Estado del servicio
