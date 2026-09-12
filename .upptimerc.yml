@@ -33,8 +33,16 @@ sites:
 status-website:
   cname: status.datasmart.com.co
   name: DataSmart · Estado del servicio
-  # Logo alojado EN el repo de status (off-infra). Subir logo.png a la raíz del repo.
-  logoUrl: https://raw.githubusercontent.com/alopezja/datasmart-status/master/logo.png
+  # La página pide `history/summary.json` y los PNG de `graphs/` EN CALIENTE desde
+  # el navegador. Por defecto van a raw.githubusercontent.com, que desde Bogotá
+  # devolvía 503 en TODO cache MISS ("Backend.max_conn reached", POP cache-bog):
+  # la página quedaba en "An error occurred" y los gráficos en blanco aunque el
+  # repo estuviera perfecto. Este Worker hace de proxy cacheado y, si GitHub
+  # falla, sirve la última copia buena en vez de romper la página.
+  # Código y despliegue: DATASMART/docs/status-upptime/worker/
+  userContentBaseUrl: https://datasmart-status-cdn.datasmart.workers.dev
+  # Logo alojado EN el repo de status (off-infra), servido por el mismo proxy.
+  logoUrl: https://datasmart-status-cdn.datasmart.workers.dev/alopezja/datasmart-status/master/logo.png
   introTitle: "Estado de los servicios de DataSmart"
   introMessage: "Estado en tiempo real de nuestros productos. Si ves un incidente, ya estamos al tanto."
   navbar:
