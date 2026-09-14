@@ -4,18 +4,20 @@
     "url": "https://www.datasmart.com.co/api/health/ventix",
     "icon": "https://icons.duckduckgo.com/ip3/www.datasmart.com.co.ico",
     "slug": "ventix",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 987,
-    "timeDay": 685,
-    "timeWeek": 633,
-    "timeMonth": 987,
-    "timeYear": 987,
-    "dailyMinutesDown": {}
+    "time": 1095,
+    "timeDay": 1296,
+    "timeWeek": 907,
+    "timeMonth": 1095,
+    "timeYear": 1095,
+    "dailyMinutesDown": {
+      "2026-09-14": 0
+    }
   },
   {
     "name": "Axia",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 762,
-    "timeDay": 248,
-    "timeWeek": 276,
-    "timeMonth": 762,
-    "timeYear": 762,
+    "time": 749,
+    "timeDay": 257,
+    "timeWeek": 278,
+    "timeMonth": 749,
+    "timeYear": 749,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 739,
-    "timeDay": 224,
-    "timeWeek": 239,
-    "timeMonth": 739,
-    "timeYear": 739,
+    "time": 734,
+    "timeDay": 281,
+    "timeWeek": 261,
+    "timeMonth": 734,
+    "timeYear": 734,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 783,
-    "timeDay": 293,
-    "timeWeek": 276,
-    "timeMonth": 783,
-    "timeYear": 783,
+    "time": 768,
+    "timeDay": 287,
+    "timeWeek": 274,
+    "timeMonth": 768,
+    "timeYear": 768,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 732,
-    "timeDay": 245,
-    "timeWeek": 237,
-    "timeMonth": 732,
-    "timeYear": 732,
+    "time": 719,
+    "timeDay": 249,
+    "timeWeek": 239,
+    "timeMonth": 719,
+    "timeYear": 719,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 753,
-    "timeDay": 286,
-    "timeWeek": 240,
-    "timeMonth": 753,
-    "timeYear": 753,
+    "time": 737,
+    "timeDay": 273,
+    "timeWeek": 238,
+    "timeMonth": 737,
+    "timeYear": 737,
     "dailyMinutesDown": {}
   }
 ]
