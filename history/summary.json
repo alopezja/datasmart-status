@@ -4,19 +4,19 @@
     "url": "https://www.datasmart.com.co/api/health/ventix",
     "icon": "https://icons.duckduckgo.com/ip3/www.datasmart.com.co.ico",
     "slug": "ventix",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1095,
-    "timeDay": 1296,
-    "timeWeek": 907,
-    "timeMonth": 1095,
-    "timeYear": 1095,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1084,
+    "timeDay": 1222,
+    "timeWeek": 894,
+    "timeMonth": 1084,
+    "timeYear": 1084,
     "dailyMinutesDown": {
-      "2026-09-14": 0
+      "2026-09-14": 5
     }
   },
   {
