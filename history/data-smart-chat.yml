@@ -1,7 +1,7 @@
 url: https://www.datasmart.com.co/api/health/dschat
-status: degraded
-code: 503
-responseTime: 3156
-lastUpdated: 2026-10-14T04:11:21.396Z
+status: up
+code: 200
+responseTime: 242
+lastUpdated: 2026-10-14T04:15:22.115Z
 startTime: 2026-08-27T19:28:12.053Z
 generator: Upptime <https://github.com/upptime/upptime>
