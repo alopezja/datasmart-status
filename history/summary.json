@@ -4,19 +4,19 @@
     "url": "https://www.datasmart.com.co/api/health/ventix",
     "icon": "https://icons.duckduckgo.com/ip3/www.datasmart.com.co.ico",
     "slug": "ventix",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 642,
-    "timeDay": 695,
-    "timeWeek": 621,
-    "timeMonth": 629,
+    "timeDay": 684,
+    "timeWeek": 620,
+    "timeMonth": 628,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2026-10-14": 2
+      "2026-10-14": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.datasmart.com.co/api/health/axia",
     "icon": "https://icons.duckduckgo.com/ip3/www.datasmart.com.co.ico",
     "slug": "axia",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 497,
-    "timeWeek": 338,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 326,
+    "timeDay": 489,
+    "timeWeek": 337,
     "timeMonth": 308,
-    "timeYear": 327,
+    "timeYear": 326,
     "dailyMinutesDown": {
-      "2026-10-14": 1
+      "2026-10-14": 4
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.datasmart.com.co/api/health/dschat",
     "icon": "https://icons.duckduckgo.com/ip3/www.datasmart.com.co.ico",
     "slug": "data-smart-chat",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 287,
-    "timeDay": 439,
-    "timeWeek": 296,
+    "timeDay": 432,
+    "timeWeek": 295,
     "timeMonth": 268,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2026-10-14": 1
+      "2026-10-14": 4
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://www.datasmart.com.co/api/health/servix",
     "icon": "https://icons.duckduckgo.com/ip3/www.datasmart.com.co.ico",
     "slug": "servix",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 302,
-    "timeDay": 412,
-    "timeWeek": 295,
+    "timeDay": 408,
+    "timeWeek": 294,
     "timeMonth": 281,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2026-10-14": 1
+      "2026-10-14": 4
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://www.datasmart.com.co/api/health/mindix",
     "icon": "https://icons.duckduckgo.com/ip3/www.datasmart.com.co.ico",
     "slug": "mindix",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 268,
-    "timeDay": 409,
+    "timeDay": 402,
     "timeWeek": 268,
     "timeMonth": 248,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2026-10-14": 0
+      "2026-10-14": 3
     }
   },
   {
